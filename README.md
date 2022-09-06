@@ -35,5 +35,5 @@ I am proficent in the following frameworks programming languages:<br>
 </span>
 
 ![Rian Rahman's Github Stats](https://github-readme-stats.vercel.app/api?username=RiRah123&include_all_commits=true&theme=radical&show_icons=true&count_private=true)
-<div>
+<div><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiRah123&layout=compact&theme=material-palenight"/>
