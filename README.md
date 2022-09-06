@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **RiRah123/RiRah123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there! 👋
+
+Welcome to my GitHub page! My name is Rian Rahman. I am currently a 3rd-year Computional Media student at the Georgia Institute of Technology, concentrating in Artifical Intelligence :robot: and Games :video_game:	
