@@ -6,7 +6,7 @@
 
 I am currently a 3rd-year Computional Media student at the Georgia Institute of Technology :honeybee:, concentrating in Artifical Intelligence :robot: and Games :video_game:.
 
-I am proficent or intermediate in the following tools, frameworks, and programming languages:<br>
+I am proficent, intermediate, or beginner in the following tools, frameworks, and programming languages:<br>
 <span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
