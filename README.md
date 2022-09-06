@@ -12,25 +12,26 @@ Also, I am currently in the process of looking for a Software Engineering Intern
 ### General Facts About Me
  ```javascript
 > Rian.pronouns
-  => "He/Him"
+    => "He/Him"
 
 > Rian.location
-  => "Atlanta, Georgia, USA"
+    => "Atlanta, Georgia, USA"
 
 > Rian.latestWorkExperience
-  => company: "NCR Corporation"
-  => role: "Software Engineer Intern"
-  => startDate: "May 2022"
-  => endDate: "August 2022"
+    => company: "NCR Corporation"
+    => role: "Software Engineer Intern"
+    => startDate: "May 2022"
+    => endDate: "August 2022"
      
 > Rian.achievements
-  => Achievement #1: "Top 10 NCR Global Hackathon" 
-  => Achievement #2: "FBLA National Leadership 5th Place Network Design"
+    => Achievement #1: "Top 10 NCR Global Hackathon" 
+    => Achievement #2: "FBLA National Leadership 5th Place Network Design"
 
 > Rian.interests
-  => ["Coding", "Chess", "Music", "Anime"]
+    => ["Coding", "Chess", "Music", "Anime"]
 ```
 
+<br>
 I always love learning new technologies! The following is a list of tools, frameworks, and programming languages that I am proficent/intermediate in or use on a regular basis:<br>
 <span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
