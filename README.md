@@ -37,6 +37,4 @@ I am proficent in the following frameworks programming languages:<br>
 <br>
 ![Rian Rahman's Github Stats](https://github-readme-stats.vercel.app/api?username=RiRah123&count_private=true&show_icons=true&include_all_commits=true&theme=radical
 <br>
-<a href="https://github.com/RiRah123/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiRah123&layout=compact&theme=material-palenight"/>
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiRah123&layout=compact&theme=material-palenight"/>
