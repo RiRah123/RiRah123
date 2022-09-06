@@ -1,6 +1,6 @@
 
 
-## Welcome to my GitHub page! I'm Rian 👋
+## Welcome to my GitHub profile! I'm Rian 👋
 
 <img src="https://komarev.com/ghpvc/?username=RiRah123"/>
 
