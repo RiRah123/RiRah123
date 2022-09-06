@@ -24,7 +24,7 @@ Also, I am currently in the process of looking for a Software Engineering Intern
     => endDate: "August 2022"
      
 > Rian.achievements
-    => Achievement #1: "Top 10 NCR Global Hackathon" 
+    => Achievement #1: "Top 10 NCR Global Hackathon Software Division" 
     => Achievement #2: "FBLA National Leadership 5th Place Network Design"
 
 > Rian.interests
