@@ -34,7 +34,9 @@ I am proficent in the following frameworks programming languages:<br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
 </span>
 
+<br>
 ![Rian Rahman's Github Stats](https://github-readme-stats.vercel.app/api?username=RiRah123&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+<br>
 <a href="https://github.com/preethamcoder/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethamcoder&layout=compact&theme=material-palenight"/>
 </a>
