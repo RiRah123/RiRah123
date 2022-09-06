@@ -1,11 +1,15 @@
 
 
-### Welcome to my GitHub page! I'm Rian (He/Him) 👋
+## Welcome to my GitHub page! I'm Rian (He/Him) 👋
 
 <img src="https://komarev.com/ghpvc/?username=RiRah123"/>
 
-#### About Me
-I am currently a 3rd-year Computional Media student at the Georgia Institute of Technology :honeybee:, concentrating in Artifical Intelligence :robot: and Games :video_game:. I am passionate about various sectors of technology and Computer Science, including web development :desktop_computer:, user interface design and :paintbrush:, data visualization :chart:.
+#### Who Am I?
+I am currently a 3rd-year Computional Media student at the Georgia Institute of Technology :honeybee:, concentrating in Artifical Intelligence :robot: and Games :video_game:. I am passionate about various sectors of Computer Science, including web development :desktop_computer:, user interface design and :paintbrush:, data visualization :chart:. I am a firm believe that computers when used in the correct way can impact the lives of millions of humans in every possible way.
+
+I am currently in the process of looking for a Software Engineering Internship for Summer 2023 
+
+#### General Facts
 
 I always love learning new technologies! The following is a list of tools, frameworks, and programming languages that I am proficent/intermediate in or use on a regular basis:<br>
 <span>
