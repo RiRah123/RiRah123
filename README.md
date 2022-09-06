@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <img src="https://komarev.com/ghpvc/?username=RiRah123"/>
 
-I am currently a 3rd-year Computional Media student at the Georgia Institute of Technology, concentrating in Artifical Intelligence :robot: and Games :video_game:.
+I am currently a 3rd-year Computional Media student at the Georgia Institute of Technology :honeybee:, concentrating in Artifical Intelligence :robot: and Games :video_game:.
 
-I am proficent in the following tools, technologies, and programming languages:<br>
+I am proficent in the following frameworks programming languages:<br>
 <span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -34,7 +34,8 @@ I am proficent in the following tools, technologies, and programming languages:<
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
 </span>
 
-Here is a little more about myself:
-
 ![Rian Rahman's Github Stats](https://github-readme-stats.vercel.app/api?username=RiRah123&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-<a href="https://github.com/RiRah123/github-readme-stats">
+<a href="https://github.com/preethamcoder/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethamcoder&layout=compact&theme=material-palenight"/>
+</a>
+
