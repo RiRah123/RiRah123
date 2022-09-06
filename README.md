@@ -1,12 +1,13 @@
 
 
-### Hey there! I'm Rian (He/Him) 👋
+### Welcome to my GitHub page! I'm Rian (He/Him) 👋
 
 <img src="https://komarev.com/ghpvc/?username=RiRah123"/>
 
+#### About Me
 I am currently a 3rd-year Computional Media student at the Georgia Institute of Technology :honeybee:, concentrating in Artifical Intelligence :robot: and Games :video_game:. I am passionate about various sectors of technology and Computer Science, including web development :desktop_computer:, user interface design and :paintbrush:, data visualization :chart:.
 
-I always love learning new technologies! The following is a list of tools, frameworks, and programming languages that I am proficent or intermediate in and use on a regular basis:<br>
+I always love learning new technologies! The following is a list of tools, frameworks, and programming languages that I am proficent/intermediate in or use on a regular basis:<br>
 <span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
@@ -24,6 +25,7 @@ I always love learning new technologies! The following is a list of tools, frame
 </span>
 <br>
 
+#### GitHub Stats
 ![Rian Rahman's Github Stats](https://github-readme-stats.vercel.app/api?username=RiRah123&include_all_commits=true&theme=radical&show_icons=true&count_private=true)
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiRah123&layout=compact&theme=radical"/>
