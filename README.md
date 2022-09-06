@@ -1,6 +1,6 @@
 
 
-## Welcome to my GitHub page! I'm Rian (He/Him) 👋
+## Welcome to my GitHub page! I'm Rian 👋
 
 <img src="https://komarev.com/ghpvc/?username=RiRah123"/>
 
@@ -9,7 +9,27 @@ I am currently a 3rd-year Computional Media student at the Georgia Institute of 
 
 Also, I am currently in the process of looking for a Software Engineering Internship for Summer 2023 :sunny:. If you are interested in hiring me, checkout my <a href="https://www.linkedin.com/in/rian-rahman02/">Linkedin</a>. Otherwise, if you're just browsing, feel free to checkout some of the projects I made the past few months!
 
-### General Facts
+### General Facts About Me
+ ```javascript
+> Rian.pronouns
+  => "He/Him"
+
+> Rian.location
+  => "Atlanta, Georgia, USA"
+
+> Rian.latestWorkExperience
+  => company: "NCR Corporation"
+  => role: "Software Engineer Intern"
+  => startDate: "May 2022"
+  => endDate: "August 2022"
+     
+> Rian.achievements
+  => Achievement #1: "Top 10 NCR Global Hackathon" 
+  => Achievement #2: "FBLA National Leadership 5th Place Network Design"
+
+> Rian.interests
+  => ["Coding", "Chess", "Music", "Anime"]
+```
 
 I always love learning new technologies! The following is a list of tools, frameworks, and programming languages that I am proficent/intermediate in or use on a regular basis:<br>
 <span>
