@@ -32,8 +32,3 @@ I am proficent or intermediate in the following tools, frameworks, and programmi
 ![Rian Rahman's Github Stats](https://github-readme-stats.vercel.app/api?username=RiRah123&include_all_commits=true&theme=radical&show_icons=true&count_private=true)
 <div><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiRah123&layout=compact&theme=material-palenight"/>
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2020%20mins-blue)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-197%20Thousand%20lines%20of%20code-blue)
-
