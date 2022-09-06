@@ -1,6 +1,6 @@
 
 
-### Hey there! I'm Rian (He/Him)! 👋
+### Hey there! I'm Rian (He/Him) 👋
 
 <img src="https://komarev.com/ghpvc/?username=RiRah123"/>
 
