@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I am currently a 3rd-year Computional Media student at the Georgia Institute of Technology :honeybee:, concentrating in Artifical Intelligence :robot: and Games :video_game:.
 
-I am proficent in the following frameworks programming languages:<br>
+I am proficent or intermediate in the following tools, frameworks, and programming languages:<br>
 <span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
