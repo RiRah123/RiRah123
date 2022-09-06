@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=RiRah123"/>
 
-I am currently a 3rd-year Computional Media student at the Georgia Institute of Technology :honeybee:, concentrating in Artifical Intelligence :robot: and Games :video_game:.
+I am currently a 3rd-year Computional Media student at the Georgia Institute of Technology :honeybee:, concentrating in Artifical Intelligence :robot: and Games :video_game:. I am passionate about various sectors of technology and Computer Science, including web development :desktop_computer:, user interface design and :paintbrush:, data visualization :chart:.
 
 I am proficent, intermediate, or beginner in the following tools, frameworks, and programming languages:<br>
 <span>
