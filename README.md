@@ -32,7 +32,7 @@ Also, I am currently looking for a Software Engineering Internship for Summer 20
 ```
 
 <br>
-I always love learning new technologies! The following is a list of tools, frameworks, and programming languages that I am proficent/intermediate in or use on a regular basis:<br>
+I always love learning new technologies! The following is a list of tools, frameworks, and programming languages that I am proficient/intermediate in or use on a regular basis:<br>
 <span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
