@@ -1,6 +1,6 @@
 
 
-## Welcome to my GitHub profile! I'm Rian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+## Welcome to my GitHub profile! I'm Rian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"></h1>
 
 <img src="https://komarev.com/ghpvc/?username=RiRah123"/>
 
