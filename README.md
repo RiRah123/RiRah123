@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=RiRah123"/>
 
 ### Who Am I?
-I am currently a 3rd-year Computational Media student at the Georgia Institute of Technology :honeybee:, concentrating in Artificial Intelligence :robot: and Games :video_game:. I am passionate about various sectors of Computer Science, including web development :desktop_computer:, user interface design :paintbrush:, and data visualization :chart:. I believe that computers when used correctly can impact the lives of millions of humans in every possible way.
+I am currently a 3rd-year Computer Science student at the Georgia Institute of Technology :honeybee:, concentrating in Artificial Intelligence :robot: and Information Internetworks :globe_with_meridians:. I am passionate about various sectors of Computer Science, including web development :desktop_computer:, user interface design :paintbrush:, and data visualization :chart:. I believe that computers when used correctly can impact the lives of millions of humans in every possible way.
 
 Also, I am currently looking for a Software Engineering Internship for Summer 2023 :sunny:. If you are interested in hiring me, check out my <a href="https://www.linkedin.com/in/rian-rahman02/">Linkedin</a>. Otherwise, if you're just browsing, feel free to check out some of the projects I created in the past few months!
 
