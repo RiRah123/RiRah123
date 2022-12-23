@@ -2,8 +2,6 @@
 
 ## Welcome to my GitHub profile! I'm Rian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30">
 
-<img src="https://komarev.com/ghpvc/?username=RiRah123"/>
-
 ### Who Am I?
 I am currently a 3rd-year Computer Science student at the Georgia Institute of Technology 🐝, concentrating in Artificial Intelligence 🤖 and Information Internetworks 🌐. I am passionate about various sectors of Computer Science, including web development 🖥️, user interface design 🖌️, and data visualization 💹. I believe that computers when used correctly can impact the lives of millions of humans in every possible way.
 
