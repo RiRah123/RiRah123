@@ -52,4 +52,4 @@ I always love learning new technologies! The following is a list of tools, frame
 ![Rian Rahman's Github Stats](https://github-readme-stats.vercel.app/api?username=RiRah123&include_all_commits=true&theme=radical&show_icons=true&count_private=true)
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiRah123&layout=compact&theme=radical"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RiRah123&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width=400  />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RiRah123&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width=400  />
