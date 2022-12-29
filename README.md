@@ -48,7 +48,9 @@ I always love learning new technologies! The following is a list of tools, frame
 </span>
 <br>
 
+<!---
 ### GitHub Stats
-![Rian Rahman's Github Stats](https://github-readme-stats.vercel.app/api?username=RiRah123&include_all_commits=true&theme=radical&show_icons=true)
+![Rian Rahman's Github Stats](https://github-readme-stats.vercel.app/api?username=RiRah123&include_all_commits=true&theme=radical&show_icons=true&count_private=true)
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiRah123&layout=compact&theme=radical"/>
+-->
