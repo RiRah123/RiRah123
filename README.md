@@ -14,12 +14,12 @@ Also, I am currently looking for a Software Engineering or Data Science Internsh
     => "Atlanta, Georgia, USA"
 
 > Rian.latestWorkExperience
-    => company: "NCR Corporation"
+    => company: "HP Inc."
     => role: "Software Engineer Intern"
-    => startDate: "May 2022"
-    => endDate: "August 2022"
+    => startDate: "May 2023"
      
 > Rian.achievements
+    => achievement1: "1st Runner Up HP Global InternStellar Awards - Technical Impact Category" 
     => achievement1: "Top 10 NCR Global Hackathon Software Division" 
     => achievement2: "FBLA National Leadership 5th Place Network Design"
 
