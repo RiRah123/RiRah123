@@ -12,17 +12,6 @@ I am currently a 5th-year student at the Georgia Institute of Technology 🐝, c
 > Rian.location
     => "Atlanta, Georgia, USA"
 
-> Rian.latestWorkExperience
-    => company: "HP Inc."
-    => role: "Software Engineer Intern"
-    => startDate: "May 2023"
-    => endDate: “August 2024”
-     
-> Rian.achievements
-    => achievement1: "1st Runner Up HP Global InternStellar Awards - Technical Impact Category" 
-    => achievement1: "Top 10 NCR Global Hackathon Software Division" 
-    => achievement2: "FBLA National Leadership 5th Place Network Design"
-
 > Rian.interests
     => ["Coding", "Chess", "Music", "Anime"]
 ```
