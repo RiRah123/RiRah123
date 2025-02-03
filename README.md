@@ -1,7 +1,7 @@
 ## Welcome to my GitHub profile! I'm Rian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30">
 
 ### Who Am I?
-I am currently a 5th-year student at the Georgia Institute of Technology 🐝, concentrating in Artificial Intelligence 🤖 and Human-Computer Interaction. I am passionate about various sectors of Computer Science, including web development 🖥️, user interface design 🖌️, and data visualization 💹. I believe that computers when used correctly can impact the lives of millions of humans in every possible way.
+I am currently a Masters student at the Georgia Institute of Technology 🐝, concentrating in Machine Learning 🤖. I believe that computers when used correctly can impact the lives of millions of humans in every possible way.
 
 
 ### General Facts About Me
